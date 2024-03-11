@@ -4,12 +4,16 @@
 </header>
 
 <p>
-I'll advice you to first learn a programming langauge if you wish to get the most of this repo. most of the problems will be solved in JavaScript and Python. I chose these languages beacause they are easier for beginners to learn.
+I'll advice you to first learn a programming langauge if you wish to get the most of this repo. most of the Code will be written in JavaScript and Python. I chose these languages beacause they are easier for beginners to learn.
 </p>
 <h3>
 Objectives
 </h3>
-
+<ul>
+  <li></li>
+   <li></li>
+   <li></li>
+</ul>
 
 <h1>Algorithm and Heuristic</h1>
 
