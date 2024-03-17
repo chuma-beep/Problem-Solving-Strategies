@@ -9,7 +9,7 @@
 </article>
 <h5>Prerequistes</h5>
 <ul>
-  <li>Python</li>
+  <li><h3>Python</h3></li>
 https://developers.google.com/edu/python)https://developers.google.com/edu/python
 https://learn.microsoft.com/en-us/training/modules/intro-to-python/
 https://www.pythonforbeginners.com/learn-python
@@ -17,6 +17,6 @@ https://www.pythonforbeginners.com/learn-python
  https://www.youtube.com/watch?v=rfscVS0vtbw
  <p>repo</p>
  https://github.com/pamoroso/free-python-books#introductory
- <li>Javascript</li>
+ <li><h3>JavaScript</h3</li>
 
 </ul>
