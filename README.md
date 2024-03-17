@@ -10,7 +10,7 @@
 <h5>Prerequistes</h5>
 <ul>
   <li><h3>Python</h3></li>
-https://developers.google.com/edu/python)https://developers.google.com/edu/python
+<a href="https://developers.google.com/edu/python)https://developers.google.com/edu/python"></a>
 https://learn.microsoft.com/en-us/training/modules/intro-to-python/
 https://www.pythonforbeginners.com/learn-python
  <p>video</p>
