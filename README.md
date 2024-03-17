@@ -1,3 +1,5 @@
+<img src="Problem solving.png">
+
 # Problem-Solving-Strategies
 
 <article>
