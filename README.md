@@ -10,7 +10,7 @@
  </p>  
 </article>
 <h5>Prerequistes</h5>
-<p>If you don't know any programming languages I'll suggest you pick up [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) or [JavaScript](https://en.wikipedia.org/wiki/JavaScript) there are also some free resources where you can pick up any of these programming langauges if you choose to do so</p>
+<p>If you don't know any programming languages I'll suggest you pick up <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"></a> or [JavaScript](https://en.wikipedia.org/wiki/JavaScript) there are also some free resources where you can pick up any of these programming langauges if you choose to do so</p>
 <ul>
   <li><h3>Python</h3></li>
 https://developers.google.com/edu/python)https://developers.google.com/edu/python <br>
