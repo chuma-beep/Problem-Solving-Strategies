@@ -9,7 +9,9 @@
  
 
 ## Prerequistes
-If you don't know any programming languages I'll suggest you pick up [Python](href="https://en.wikipedia.org/wiki/Python_(programming_language)")  [JavaScript](href="https://en.wikipedia.org/wiki/JavaScript") there are also some free resources where you can pick up any of these programming langauges if you choose to do so.
+If you don't know any programming languages, i'll suggest you pick up [Python](href="https://en.wikipedia.org/wiki/Python_(programming_language)") or [JavaScript](href="https://en.wikipedia.org/wiki/JavaScript") there are also some free resources where you can pick up any of these programming langauges if you choose to do so. 
+
+*Please note you are to foucs on core concepts that can be applied across sevelral other languages, like variables, data types, loops, conditionals, and functions.*
 
 ### Python
 - Free Learning Sources
@@ -32,7 +34,7 @@ If you don't know any programming languages I'll suggest you pick up [Python](hr
 1. https://javascript.info/
 2. https://www.learn-js.org/
 3. https://www.freecodecamp.org/
-4. shttps://devdocs.io/
+4. https://devdocs.io/
 
 ### Video
 1. https://www.youtube.com/watch?v=hdI2bqOjy3c
