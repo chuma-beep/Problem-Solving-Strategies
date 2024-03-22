@@ -19,9 +19,9 @@ These are methods in which a problem should be approached in other to achieve a 
 
 
 ### Note these are also very important steps but these require more application than theory so i won't be verbose on them
- -Past Experience
- -Bring in a facilitator
- -Develop a decision matrix for evaluation
- -Ask your Peers for help
- -Step away from problem
+ 1. Past Experience
+ 2. Bring in a facilitator
+ 3. Develop a decision matrix for evaluation
+ 4. Ask your Peers for help
+ 5. Step away from problem
 
