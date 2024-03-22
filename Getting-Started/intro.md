@@ -14,8 +14,12 @@ These are methods in which a problem should be approached in other to achieve a 
 2. Trail an Error
 3. MeansEnd Analysis
 4. Heuristic 
-5. FlowChart and PsuedoCode
-6. Algorithms
+5. Abstraction
+6. FlowChart and PsuedoCode
+7. Algorithms
+8. Decomposition and Modularisation
+9. Testing and Debugging
+
 
 
 ### Note these are also very important steps but these require more application than theory so i won't be verbose on them
