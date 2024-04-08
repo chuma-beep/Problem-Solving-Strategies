@@ -11,7 +11,7 @@ These are methods in which a problem should be approached in other to achieve a 
 
 ## Topics
 1. Understanding the Problem
-2. Trail an Error
+2. Trail and Error
 3. MeansEnd Analysis
 4. Heuristic 
 5. Abstraction
