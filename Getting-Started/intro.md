@@ -29,3 +29,7 @@ These are methods in which a problem should be approached in other to achieve a 
  4. Ask your Peers for help
  5. Step away from problem
 
+
+# Computation
+
+ From the Latin word computatre  
