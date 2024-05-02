@@ -1,7 +1,7 @@
 # Problem solving strategies
 
 ## Objective
-The Objective of this repo is not just to bring to light but also to enchance our understanding of problem solving startegies. I belive that the more we simplify tough topic then the more our understanding grows.
+The Objective of this repo is not just to bring to light but also to enchance our understanding of problem solving startegies. I belive that the more we simplify tough topics then the more our understanding grows.
 
 
 # What are problem solving Strategies?
@@ -27,4 +27,8 @@ These are methods in which a problem should be approached in other to achieve a 
  2. Bring in a facilitator
  3. Develop a decision matrix for evaluation
  4. Ask your Peers for help
+<<<<<<< HEAD
  5. Step away from problem
+=======
+ 5. Step away from problem
+>>>>>>> refs/remotes/origin/main

@@ -2,6 +2,7 @@
 Why should we go about understanding a Problem? 
 
 ### What is a Problem
+<<<<<<< HEAD
   First of there is what we call an ill defined and well defined problem.
 
   #### ill defined problem 
@@ -14,3 +15,13 @@ Why should we go about understanding a Problem?
    - Has Proper Outline of the problem.
    - Has clear description on hopw to get to the solution.
    - Proper Milestones That can indicate when certain Goals are met.
+=======
+
+
+
+
+
+# Computation
+
+ From the Latin word computatre  
+>>>>>>> refs/remotes/origin/main
