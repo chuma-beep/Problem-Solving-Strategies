@@ -21,7 +21,3 @@ Why should we go about understanding a Problem?
 
 
 
-# Computation
-
- From the Latin word computatre  
->>>>>>> refs/remotes/origin/main
