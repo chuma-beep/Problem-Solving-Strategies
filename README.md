@@ -16,7 +16,7 @@ I'll advice you to first learn a programming langauge if you wish to get the mos
 ### Python
 - Free Learning Sources
 - Offical Python Website
-  https://www.python.org/
+    https://www.python.org/
  - Other websites
 1. https://developers.google.com/edu/python
 2. https://developers.google.com/edu/python
