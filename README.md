@@ -15,7 +15,9 @@ I'll advice you to first learn a programming langauge if you wish to get the mos
 
 ### Python
 - Free Learning Sources
- - websites
+- Offical Python Website
+  https://www.python.org/
+ - Other websites
 1. https://developers.google.com/edu/python
 2. https://developers.google.com/edu/python
 3. https://learn.microsoft.com/en-us/training/modules/intro-to-python/
@@ -26,8 +28,7 @@ I'll advice you to first learn a programming langauge if you wish to get the mos
 
   - repo
 1. https://github.com/pamoroso/free-python-books#introductory
-   - Offical Python Website
-    1. https://www.python.org/
+
 ### JavaScript
 - Free Learning Sources
  - websites
