@@ -1,8 +1,6 @@
 # UNDERSTANDING THE PROBLEM
-Why should we go about understanding a Problem? 
+Why should we go about understanding a Problem? It Might be weird but the first step towards solving a problem is understanding the problem, we need to first understand if it's ill defined or well defined.
 
-### What is a Problem
-  First of there are two kinds of problems one is what we call 
   
   #### An ill defined problem 
    - No proper Outline of the probelms.
@@ -15,7 +13,7 @@ And the Other
    - Has Proper Outline of the problem.
    - Has clear description on hopw to get to the solution.
    - Proper Milestones That can indicate when certain Goals are met.
-=======
+
 
 
 
