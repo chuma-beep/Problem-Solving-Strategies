@@ -16,7 +16,3 @@ And the Other
 
 
 
-
-
-
-<img src="Understanding the Probelm.PNG">
