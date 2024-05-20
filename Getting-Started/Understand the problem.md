@@ -54,4 +54,4 @@ First of it will differ by position required stats each position will be:
   - physical: 80
 
 
-The above requirements is our desired output. Now we have to individualy check if the players in the pool meet the required standards.
+The above requirements is our desired output. Now we have to individualy check if the players in the pool meet the required standards. That brings us to the next lesson [Psuedo code & Flowcharts](../Algorithms/Pseudocode%20and%20Flowchart/pseudocode.md)
