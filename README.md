@@ -11,6 +11,8 @@
 ## Prerequistes
 I'll advice you to first learn a programming langauge if you wish to get the most of this repo. Most of the Code will be written in JavaScript and Python. I chose these languages because they are easier for beginners to learn. I also added links to some free resources where you can pick up any of these programming langauges if you choose to do so. 
 
+### if you're ready you can start [here](Getting-Started/intro.md)
+
 *Please note you are to foucs on core concepts that can be applied across several other languages, like variables, data types, loops, conditionals, and functions.*
 
 ### Python
