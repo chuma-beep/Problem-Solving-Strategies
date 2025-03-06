@@ -56,3 +56,5 @@ First of it will differ by position required stats each position will be:
  Our goal is to evaluate each player in the pool to determine if they meet the required standards for their position. This structured approach helps us select the best team members effectively.
 
  This leads us to the next step: Pseudocode & Flowcharts, where we translate our understanding into a structured plan for implementation.
+
+  That brings us to the next lesson [Psuedo code & Flowcharts](../Algorithms/Pseudocode and Flowchart/pseudocode.md)
