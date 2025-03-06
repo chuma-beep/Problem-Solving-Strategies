@@ -7,7 +7,6 @@ Why should we go about understanding a Problem? It Might be weird to point it ou
    - Has no Proper Outline on how to get to the solution.
    - No clear goal.
 
-And the Other 
 
   #### A well defined problem 
    - Has Proper Outline of the problem.
@@ -19,7 +18,7 @@ And the Other
 Undrstanding the problem also involves breaking down the problem into smaller parts. We need to find out what is the input available and what is the desired output.
 
 Example
-Let's say we have a total of 22 football players and we need to get the highest performers in other to seprate them into starting eleven and second eleven.
+Consider a scenario where we have a total of 22 football players and we need to get the highest performers in other to separate them into starting eleven and second eleven.
 
 First of it will differ by position required stats each position will be: 
 
@@ -47,11 +46,13 @@ First of it will differ by position required stats each position will be:
   - physical: 90
 
   4. Attacker
-  - Agility: 90
+  - Agility: 93
   - Speed: 90
   - passing: 60
   - defence: 40
   - physical: 80
 
+ ### From Problem to Solution
+ Our goal is to evaluate each player in the pool to determine if they meet the required standards for their position. This structured approach helps us select the best team members effectively.
 
-The above requirements is our desired output. Now we have to individualy check if the players in the pool meet the required standards. That brings us to the next lesson [Psuedo code & Flowcharts](../Algorithms/Pseudocode%20and%20Flowchart/pseudocode.md)
+ This leads us to the next step: Pseudocode & Flowcharts, where we translate our understanding into a structured plan for implementation.
