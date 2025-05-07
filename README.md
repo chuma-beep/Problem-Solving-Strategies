@@ -49,3 +49,14 @@ I'll advice you to first learn a programming langauge if you wish to get the mos
 2. https://github.com/jonasschmedtmann/complete-javascript-course
 3. https://github.com/javascript-tutorial/en.javascript.info
 4. https://github.com/wesbos/beginner-javascript
+
+
+## CI Setup
+This repository uses GitHub Actions to enforce code quality:
+- `black` for formatting.
+- `flake8` for linting.
+To set up locally:
+```bash
+pip install black flake8
+black .
+flake8 .
