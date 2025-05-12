@@ -1,7 +1,7 @@
 # Problem solving strategies
 
 ## Objective
-The Objective of this repo is not just to bring to light but also to enchance our understanding of problem solving startegies. I belive that the more we simplify tough topics then the more our understanding grows.
+The Objective of this repo is not just to bring to light but also to enhance our understanding of problem solving strategies. I believe that the more we simplify tough topics then the more our understanding grows.
 
 
 # What are problem solving Strategies?
@@ -12,10 +12,10 @@ These are methods in which a problem should be approached in other to achieve a 
 ## Topics
 1. Understanding the Problem
 2. Trail and Error
-3. MeansEnd Analysis
+3. Means End Analysis
 4. Heuristic 
 5. Abstraction
-6. FlowChart and PsuedoCode
+6. Flow Chart and Pseudo Code
 7. Algorithms
 8. Decomposition and Modularisation
 9. Testing and Debugging

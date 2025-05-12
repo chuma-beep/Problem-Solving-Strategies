@@ -2,9 +2,9 @@
 // Binary search ts 
 
 // say we have an array of numbers 
-const numArr: number[] = [1,2,3,4,5,6,7,8,9,10];
+//const numArr: number[] = [1,2,3,4,5,6,7,8,9,10];
 //we are trying to get 2
-const value = 1;
+//const value = 1;
 
 function binarySearch(numArr: number[], value: number): number {
   

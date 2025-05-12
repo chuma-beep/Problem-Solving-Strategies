@@ -15,7 +15,7 @@ Why should we go about understanding a Problem? It Might be weird to point it ou
 
 
 
-Undrstanding the problem also involves breaking down the problem into smaller parts. We need to find out what is the input available and what is the desired output.
+Understanding the problem also involves breaking down the problem into smaller parts. We need to find out what is the input available and what is the desired output.
 
 Example
 Consider a scenario where we have a total of 22 football players and we need to get the highest performers in other to separate them into starting eleven and second eleven.
@@ -57,4 +57,4 @@ First of it will differ by position required stats each position will be:
 
  This leads us to the next step: Pseudocode & Flowcharts, where we translate our understanding into a structured plan for implementation.
 
-  That brings us to the next lesson [Psuedo code & Flowcharts](../Algorithms/Pseudocode and Flowchart/pseudocode.md)
+  That brings us to the next lesson [Pseudo code & Flowcharts](../Algorithms/Pseudocode and Flowchart/pseudocode.md)
