@@ -23,3 +23,15 @@ Now let's imagine this 'data' is a big meal right and the nodes will be the chun
 
 
 
+- this a typescript example of divide and conquer using recursion.
+```ts 
+let arrItems = [1,2,3,5,6];
+
+function arrCount(arr: number[], index: number = 0) : number{
+     if(index >= arr.length)
+                return 0;
+}
+console.log(arrCount(arrItems))
+
+```
+
